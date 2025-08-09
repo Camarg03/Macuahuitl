@@ -6,7 +6,7 @@ El proyecto de colaboración entre [Patrimonio Nacional](https://www.patrimonion
 
 Casco (Kabuto), Japón, hacia 1584. Periodo Azuchi-Momoyama. Cat. E-136, Real Armería de Madrid, Patrimonio Nacional © David Blázquez
 
-[El tesoro samur\&#xE1;i de la Real Armer\&#xED;a](https://www.galeriadelascoleccionesreales.es/exposicion/el-tesoro-samurai-de-la-real-armeria/39fd99e0-365b-282b-0532-f6bf738e1b67)
+[El tesoro samurái de la Real Armería](https://www.galeriadelascoleccionesreales.es/exposicion/el-tesoro-samurai-de-la-real-armeria/39fd99e0-365b-282b-0532-f6bf738e1b67)
 
 ### Articulos y links de interes
 
