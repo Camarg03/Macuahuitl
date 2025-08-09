@@ -12,16 +12,43 @@ El proyecto explora cómo los objetos históricos son representados, clasificado
 
 ```
 📁 macuahuitl/
-├── 0_contexto_histórico/
-├── 1_guion_y_textos/
-├── 2_reconstrucción_visual/
-├── 3_audio_video/
-├── 4_plataforma_web/
-├── 5_fanzine/
-├── 6_presentación/
+│
+├── 00_docs/
+│   ├── es/
+│   │   ├── 01_investigacion/
+│   │   ├── 02_guiones/
+│   │   └── 03_fanzine/
+│   └── en/
+│       ├── 01_research/
+│       ├── 02_scripts/
+│       └── 03_fanzine/
+│
+├── 01_media/
+│   ├── imagenes/
+│   │   ├── archivo/
+│   │   ├── renders_3d/
+│   │   └── proceso/
+│   ├── video/
+│   │   ├── animaciones/
+│   │   ├── entrevistas/
+│   │   └── archivo/
+│   └── audio/
+│
+├── 02_web/
+│   ├── assets/
+│   ├── scripts/
+│   ├── styles/
+│   └── index.html
+│
+├── 03_3d/
+│   ├── blender/
+│   ├── obj/
+│   └── textures/
+│
+├── 04_presentations/
+│   ├── es/
+│   └── en/
 ```
-
----
 
 ## 🧾 Licencia
 
