@@ -63,3 +63,10 @@ Esta obra representa uno de los primeros catálogos ilustrados dedicados al patr
 4. **Real Biblioteca – Patrimonio Nacional**
    &#x20;Registro bibliográfico del ejemplar
    &#x20;🔗 [https://realbiblioteca.patrimonionacional.es/cgi-bin/koha/opac-detail.pl?biblionumber=39954](https://realbiblioteca.patrimonionacional.es/cgi-bin/koha/opac-detail.pl?biblionumber=39954\&query_desc=gaspar%20sensi)
+
+***
+
+<img src="assets/captura.png" alt="Captura" width="500">
+
+![GitHub Logo](https://github.com/github/explore/blob/main/topics/github/github.png?raw=true)
+
