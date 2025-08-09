@@ -2,9 +2,7 @@
 
 El proyecto de colaboración entre [Patrimonio Nacional](https://www.patrimonionacional.es/) y [Ubisoft](https://www.ubisoft.com/es-es/) ha tenido como objetivo la reproducción de un casco de Samurái, o kabuto, perteneciente a Felipe II, con motivo del lanzamiento del videojuego *Assassin's Creed Shadows* ambientado en el Japón feudal. El kabuto original del que parte esta iniciativa se custodia actualmente dentro de las Colecciones Reales de Patrimonio Nacional en la Real Armería de Madrid. Este proyecto ha sido posible gracias al trabajo conjunto de Ubisoft y [Way to Blue](https://www.instagram.com/waytobluees/) y al desarrollo de la reproducción del kabuto por [Factum Arte de Madrid](https://www.factum-arte.com/es/inicio) y la asesoría del [Museo Stibbert de Florencia.](https://www.museostibbert.it/frontend/index.php?lang=ES)
 
-!\[Texto alternativo]\()
-
-https://serviciosgcr.galeriadelascoleccionesreales.es/imagenes/Documentos/imgsem/39/39fd/39fd99e0-365b-282b-0532-f6bf738e1b67/9fd5b613-710c-b818-0f40-98833f96b661.jpg
+!\[Texto alternativo]\(https://serviciosgcr.galeriadelascoleccionesreales.es/imagenes/Documentos/imgsem/39/39fd/39fd99e0-365b-282b-0532-f6bf738e1b67/9fd5b613-710c-b818-0f40-98833f96b661.jpg)
 
 Casco (Kabuto), Japón, hacia 1584. Periodo Azuchi-Momoyama. Cat. E-136, Real Armería de Madrid, Patrimonio Nacional © David Blázquez
 
