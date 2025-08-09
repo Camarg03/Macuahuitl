@@ -66,7 +66,7 @@ Esta obra representa uno de los primeros catálogos ilustrados dedicados al patr
 
 ***
 
-<img src="assets/captura.png" alt="Captura" width="500">
 
-![GitHub Logo](https://github.com/github/explore/blob/main/topics/github/github.png?raw=true)
+![Texto alternativo]([https://example.com/imagen.pn](https://images.unsplash.com/photo-1689308271305-58e75832289b?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHx8)g)
+
 
