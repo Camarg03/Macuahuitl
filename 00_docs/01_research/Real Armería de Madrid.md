@@ -25,3 +25,10 @@
 <p>
   URL original: <a href="https://commons.wikimedia.org/wiki/File:Madrid._%E2%80%94_Incendio_de_la_Real_Armer%C3%ADa._Aspecto_del_edificio_incendiado,_a_las_dos_de_la_madrugada_del_10_del_corriente.jpg" target="_blank">[https://pagina-original.com](https://commons.wikimedia.org/wiki/File:Madrid._%E2%80%94_Incendio_de_la_Real_Armer%C3%ADa._Aspecto_del_edificio_incendiado,_a_las_dos_de_la_madrugada_del_10_del_corriente.jpg)</a>
 </p>
+
+
+
+
+![Texto alternativo](https://commons.wikimedia.org/wiki/File:Madrid._%E2%80%94_Incendio_de_la_Real_Armer%C3%ADa._Aspecto_del_edificio_incendiado,_a_las_dos_de_la_madrugada_del_10_del_corriente.jpg)
+
+URL original: https://commons.wikimedia.org/wiki/File:Madrid._%E2%80%94_Incendio_de_la_Real_Armer%C3%ADa._Aspecto_del_edificio_incendiado,_a_las_dos_de_la_madrugada_del_10_del_corriente.jpg
