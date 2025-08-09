@@ -18,15 +18,10 @@ El proyecto explora cómo los objetos históricos son representados, clasificado
 📁 macuahuitl/
 │
 ├── 00_docs/
-│   ├── es/
-│   │   ├── 01_investigacion/
-│   │   ├── 02_guiones/
-│   │   └── 03_fanzine/
-│   └── en/
-│       ├── 01_research/
-│       ├── 02_scripts/
-│       └── 03_fanzine/
-│
+│   ├── 01_research/
+│   ├── 02_scripts/
+│   └── 03_fanzine/
+│       
 ├── 01_media/
 │   ├── imagenes/
 │   │   ├── archivo/
@@ -75,24 +70,19 @@ The project explores how historical objects are represented, classified, and pre
 📁 macuahuitl/
 │
 ├── 00_docs/
-│   ├── es/
-│   │   ├── 01_investigacion/
-│   │   ├── 02_guiones/
-│   │   └── 03_fanzine/
-│   └── en/
-│       ├── 01_research/
-│       ├── 02_scripts/
-│       └── 03_fanzine/
-│
+│   ├── 01_research/
+│   ├── 02_scripts/
+│   └── 03_fanzine/
+│       
 ├── 01_media/
-│   ├── images/
-│   │   ├── archive/
+│   ├── imagenes/
+│   │   ├── archivo/
 │   │   ├── renders_3d/
-│   │   └── process/
+│   │   └── proceso/
 │   ├── video/
-│   │   ├── animations/
-│   │   ├── interviews/
-│   │   └── archive/
+│   │   ├── animaciones/
+│   │   ├── entrevistas/
+│   │   └── archivo/
 │   └── audio/
 │
 ├── 02_web/
