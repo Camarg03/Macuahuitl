@@ -8,7 +8,7 @@
 
 [La restauration de la Real Armería de Madrid (1880-1894)](https://books.openedition.org/psorbonne/109061)
 
-
+***
 
 ### Imagenes de la Real Armería de Madrid
 
@@ -20,13 +20,14 @@ Incendio de la Real Armería. Aspecto del edificio incendiado, a las dos de la m
 
 https://commons.wikimedia.org/wiki/File:Madrid.\_%E2%80%94\_Incendio\_de\_la\_Real\_Armer%C3%ADa.\_Aspecto\_del\_edificio\_incendiado,\_a\_las\_dos\_de\_la\_madrugada\_del\_10\_del\_corriente.jpg
 
-
+***
 
 !\[Texto alternativo]\()
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/1918-10-05%2C\_La\_Esfera%2C\_Vista\_de\_conjunto\_del\_interior\_de\_la\_Real\_Armer%C3%ADa\_de\_Madrid%2C\_Camp%C3%BAa.jpg/1600px-1918-10-05%2C\_La\_Esfera%2C\_Vista\_de\_conjunto\_del\_interior\_de\_la\_Real\_Armer%C3%ADa\_de\_Madrid%2C\_Camp%C3%BAa.jpg?20190222195455
 
 Vista de conjunto del interior de la Real Armería de Madrid. 5 October 1918
+
 https://commons.wikimedia.org/wiki/File:1918-10-05,\_La\_Esfera,\_Vista\_de\_conjunto\_del\_interior\_de\_la\_Real\_Armer%C3%ADa\_de\_Madrid,\_Camp%C3%BAa.jpg#
 
 
